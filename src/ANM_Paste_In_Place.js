@@ -13,8 +13,8 @@
 	2) Locate to your user scripts folder (a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html	
 	   
-	3) Add all unzipped files (*.js, and script-icons folder) directly to the folder above.
-	4) Add ANM_Paste_In_Place to your Camera or Drawing view's toolbar.
+	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.
+	4) In Harmony, add ANM_Paste_In_Place function to your Camera or Drawing view's toolbar.
 	   The current version does not work if called on any other toolbars.
 	
 	
